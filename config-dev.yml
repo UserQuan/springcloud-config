@@ -1,2 +1,2 @@
 config:
-  info: configInfo-you,success
+  info: configInfo-you,success,version=1
