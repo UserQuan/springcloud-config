@@ -1,2 +1,2 @@
 config:
-  info: configInfo-you,success,version=1
+  info: configInfo-you,success,version=2, curl -X POST "http://localhost:3344/actuator/bus-refresh"
